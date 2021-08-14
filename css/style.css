@@ -796,13 +796,15 @@ button:focus,
 .profile-img img {
     margin-top: auto;
     margin-bottom: auto;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: auto;
 
 }
 
 
-
+.profile-row {
+    padding-bottom: 5rem;
+}
 
 
 .titleDiv{
